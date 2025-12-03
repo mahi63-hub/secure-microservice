@@ -1,0 +1,7 @@
+# Generated files (should not be committed)
+seed.txt
+commit_hash.txt
+encrypted_signature.txt
+/data/
+/cron-output/
+*.log
